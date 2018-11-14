@@ -1,0 +1,23 @@
+{
+  "name": "node_tut_1",
+  "version": "0.0.1",
+  "description": "node tutorial for creating api's and CRUD operations using mongo DB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adityas119/Node_Practise_V1.git"
+  },
+  "author": "aditya somwanshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adityas119/Node_Practise_V1/issues"
+  },
+  "homepage": "https://github.com/Adityas119/Node_Practise_V1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
